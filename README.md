@@ -1,4 +1,5 @@
 # SSHForever
+[![Go Report Card](https://goreportcard.com/badge/github.com/jsws/SSHForever)](https://goreportcard.com/report/github.com/jsws/SSHForever)
 
 An SSH tarpit written in Go with Prometheus metrics, inspired by [endlessh](https://github.com/skeeto/endlessh).
 
